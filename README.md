@@ -6,6 +6,8 @@ Requirements
 
 - Requires Socket.io
 - Connect to a Mongo database and run a local NodeJS server to use
+- Collection name 'messages'
+- MongoDB npm package required
 
 Features
 ==========
